@@ -1,7 +1,7 @@
 const gamesItems = [
     {
       id: "1",
-      title: "GTA V",
+      title: process.env.GTA || "GTA VV",
       platformsIds: ["1", "2"],
     },
     {
