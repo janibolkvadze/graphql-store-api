@@ -1,4 +1,4 @@
-# Video Game store
+# Graphql
 
 Based on the example of the merge-graphql-resolvers library: [Merge GraphQL Resolvers -](https://github.com/havinhthai/graphql-merge-resolvers/tree/master/example) by [havinhthai](https://github.com/havinhthai)
 
